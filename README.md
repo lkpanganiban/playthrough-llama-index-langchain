@@ -1,4 +1,4 @@
-# Learning Llama Index and Langchain
+# Playthrough Llama Index and Langchain
 
 This is a toy repo that allow me to learn llama index and langchain. This implements an on-prem setup of the langchain and llama_index.
 
